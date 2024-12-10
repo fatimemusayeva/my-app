@@ -1,0 +1,11 @@
+.menu{
+    margin-top: 20px;
+    display: flex;
+}
+.menu-text{
+    text-align:center
+}
+a{
+    text-decoration: none;    
+    margin-left:21%
+}
